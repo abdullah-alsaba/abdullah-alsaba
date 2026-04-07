@@ -125,27 +125,17 @@ Hey, I'm **Abdullah Al Saba** — a self-driven frontend developer from Banglade
 <!-- GITHUB STATS -->
 ## 📊 &nbsp;GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdullah-alsaba&show_icons=true&theme=tokyonight&hide_border=true&title_color=22c55e&icon_color=22c55e&text_color=c9d1d9&bg_color=0d1117" width="47%" />
-  &nbsp;
-  <img src="https://streak-stats.demolab.com?user=abdullah-alsaba&theme=tokyonight&hide_border=true&background=0d1117&ring=22c55e&fire=22c55e&currStreakLabel=22c55e&sideLabels=22c55e" width="47%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-alsaba&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22c55e&text_color=c9d1d9&langs_count=6" width="40%" />
-</p>
-
-<!-- TROPHIES -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdullah-alsaba&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=6" />
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=abdullah-alsaba&theme=tokyonight&hide_border=true&background=0d1117&ring=22c55e&fire=22c55e&currStreakLabel=22c55e&sideLabels=22c55e&dates=9ca3af" height="220" />
+</div>
 
 <!-- ACTIVITY GRAPH -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullah-alsaba&bg_color=0d1117&color=22c55e&line=22c55e&point=86efac&area=true&hide_border=true" width="95%" />
 </p>
-
+ 
 ---
+
 
 <!-- QUOTE -->
 ## 💬 &nbsp;Quote I Live By
@@ -158,39 +148,17 @@ Hey, I'm **Abdullah Al Saba** — a self-driven frontend developer from Banglade
 
 ---
 
-<!-- SNAKE ANIMATION -->
-## 🐍 &nbsp;My Contributions
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abdullah-alsaba/abdullah-alsaba/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
-
----
 
 <!-- CONNECT -->
 ## 🤝 &nbsp;Connect With Me
 
 <p align="center">
-  <a href="mailto:abdullah.alsaba.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/abdullah-alsaba">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/abdullaalsaba6/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://www.facebook.com/abdulla.alsaba.39">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://x.com/abdulla_saba">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
+  <a href="mailto:abdullah.alsaba.dev@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="40" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/abdullah-alsaba/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="40" /></a>&nbsp;
+  <a href="https://x.com/abdulla_saba"><img src="https://skillicons.dev/icons?i=twitter&theme=dark" height="40" /></a>&nbsp;
+  <a href="https://www.instagram.com/abdullaalsaba6/"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="40" /></a>
 </p>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,50:0a1f0f,100:0d1117&height=130&section=footer&animation=fadeIn" />
