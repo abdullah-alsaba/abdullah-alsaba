@@ -5,7 +5,7 @@
 
 <!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=620&height=60&lines=Hey+there!+I'm+Abdullah+Al+Saba+%F0%9F%91%8B;Frontend+Developer+from+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9;React+%7C+Tailwind+%7C+JavaScript+Enthusiast+%E2%9A%A1;Always+learning%2C+always+building+%F0%9F%9A%80;Turning+ideas+into+real+products+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=620&height=60&lines=Hey+there!+I'm+Abdullah+Al+Saba+%F0%9F%91%8B;Frontend+Developer+from+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9;React+%7C+Next.js+%7C+JavaScript+Enthusiast+%E2%9A%A1;Always+learning%2C+always+building+%F0%9F%9A%80;Turning+ideas+into+real+products+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 <!-- BADGES ROW -->
@@ -14,7 +14,7 @@
   &nbsp;
   <img src="https://img.shields.io/github/followers/abdullah-alsaba?style=for-the-badge&color=22c55e&labelColor=0d1117&label=FOLLOWERS" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Focus-React%20Advanced-22c55e?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Focus-MongoDB-22c55e?style=for-the-badge&labelColor=0d1117" />
 </p>
 
 <br/>
@@ -26,14 +26,14 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
 
-```javascript
+```JavaScript
 const abdullah = {
   name:      "Abdullah Al Saba",
   location:  "Bangladesh 🇧🇩",
   role:      "Frontend Developer",
-  currentlyLearning: "React Advanced ⚛️",
+  Currently learning: "MongoDB 🍃",
   stack:     ["HTML", "CSS", "Tailwind", "DaisyUI",
-              "JavaScript", "React"],
+              "JavaScript", "React", "Next.js"],
   tools:     ["Git", "GitHub", "VS Code"],
   goal:      "Full-Stack Developer 🎯",
   funFact:   "I debug with console.log — no shame 😄",
@@ -42,7 +42,7 @@ const abdullah = {
 
 <br/>
 
-Hey, I'm **Abdullah Al Saba** — a self-driven frontend developer from Bangladesh who genuinely loves building things for the web. I started with HTML & CSS, fell in love with the craft, and haven't stopped since. Right now I'm going deep into **React Advanced** — hooks, performance, patterns, and real-world architecture. I believe in learning by doing, so you'll find me turning ideas into actual projects rather than just watching tutorials. My goal: grow consistently, build things that matter, and eventually ship full-stack products end to end.
+Hey, I'm **Abdullah Al Saba** — a self-driven frontend developer from Bangladesh who genuinely loves building things for the web. I started with HTML & CSS, fell in love with the craft, and haven't stopped since. I've gone deep into **React** and **Next.js**, and now I'm leveling up into the backend with **MongoDB**. I believe in learning by doing, so you'll find me turning ideas into actual projects rather than just watching tutorials. My goal: grow consistently, build things that matter, and eventually ship full-stack products end to end.
 
 <br clear="right"/>
 
@@ -52,7 +52,7 @@ Hey, I'm **Abdullah Al Saba** — a self-driven frontend developer from Banglade
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="26"/> &nbsp;Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,git,github,vscode&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,mongodb,git,github,vscode&theme=dark&perline=10" />
 </p>
 
 <p align="center">
@@ -62,6 +62,8 @@ Hey, I'm **Abdullah Al Saba** — a self-driven frontend developer from Banglade
   <img src="https://img.shields.io/badge/DaisyUI-1d4ed8?style=for-the-badge&logo=daisyui&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
@@ -73,15 +75,15 @@ Hey, I'm **Abdullah Al Saba** — a self-driven frontend developer from Banglade
 ## 🌱 &nbsp;Currently Learning
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React_Advanced-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
 <p align="center">
-  <em>Going deep into advanced React patterns, custom hooks, performance optimization, and real-world architecture ⚛️</em>
+  <em>Diving into MongoDB — databases, schemas, queries, and integrating with Node.js/Express 🍃</em>
 </p>
 
 ---
@@ -133,9 +135,8 @@ Hey, I'm **Abdullah Al Saba** — a self-driven frontend developer from Banglade
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullah-alsaba&bg_color=0d1117&color=22c55e&line=22c55e&point=86efac&area=true&hide_border=true" width="95%" />
 </p>
- 
----
 
+---
 
 <!-- QUOTE -->
 ## 💬 &nbsp;Quote I Live By
@@ -148,7 +149,6 @@ Hey, I'm **Abdullah Al Saba** — a self-driven frontend developer from Banglade
 
 ---
 
-
 <!-- CONNECT -->
 ## 🤝 &nbsp;Connect With Me
 
@@ -158,7 +158,6 @@ Hey, I'm **Abdullah Al Saba** — a self-driven frontend developer from Banglade
   <a href="https://x.com/abdulla_saba"><img src="https://skillicons.dev/icons?i=twitter&theme=dark" height="40" /></a>&nbsp;
   <a href="https://www.instagram.com/abdullaalsaba6/"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="40" /></a>
 </p>
-
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,50:0a1f0f,100:0d1117&height=130&section=footer&animation=fadeIn" />
