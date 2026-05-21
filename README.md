@@ -126,7 +126,9 @@ Hey, I'm **Abdullah Al Saba** — a self-driven frontend developer from Banglade
 
 <!-- GITHUB STATS -->
 ## 📊 &nbsp;GitHub Stats
-
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=abdullah-alsaba&theme=tokyonight&hide_border=true&background=0d1117&ring=22c55e&fire=22c55e&currStreakLabel=22c55e&currStreakNum=22c55e&sideLabels=22c55e&sideNums=22c55e&dates=9ca3af&cache_seconds=1" />
+</div>
 
 
 <!-- ACTIVITY GRAPH -->
