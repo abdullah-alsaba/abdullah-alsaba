@@ -1,11 +1,11 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a1f0f,100:22c55e&height=200&section=header&text=Abdullah%20Al%20Saba&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Lifelong%20Learner%20%7C%20Building%20in%20Public&descAlignY=58&descSize=15&descColor=86efac" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a1f0f,100:22c55e&height=200&section=header&text=Abdullah%20Al%20Saba&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20Lifelong%20Learner%20%7C%20Building%20in%20Public&descAlignY=58&descSize=15&descColor=86efac" />
 </p>
 
 <!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=620&height=60&lines=Hey+there!+I'm+Abdullah+Al+Saba+%F0%9F%91%8B;Frontend+Developer+from+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9;React+%7C+Next.js+%7C+JavaScript+Enthusiast+%E2%9A%A1;Always+learning%2C+always+building+%F0%9F%9A%80;Turning+ideas+into+real+products+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=620&height=60&lines=Hey+there!+I'm+Abdullah+Al+Saba+%F0%9F%91%8B;MERN+Stack+Developer+from+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB+%E2%9A%A1;Building+Scalable+Full+Stack+Applications+%F0%9F%9A%80;Turning+ideas+into+real+products+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 <!-- BADGES ROW -->
@@ -14,7 +14,7 @@
   &nbsp;
   <img src="https://img.shields.io/github/followers/abdullah-alsaba?style=for-the-badge&color=22c55e&labelColor=0d1117&label=FOLLOWERS" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Focus-MongoDB-22c55e?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Focus-MERN%20Stack-22c55e?style=for-the-badge&labelColor=0d1117" />
 </p>
 
 <br/>
