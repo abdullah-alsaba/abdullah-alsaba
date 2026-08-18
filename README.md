@@ -10,8 +10,7 @@
 
 <!-- BADGES ROW -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdullah-alsaba&style=for-the-badge&color=22c55e&labelColor=0d1117&label=PROFILE+VIEWS" />
-  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=abdullah-alsaba&style=for-the-badge&color=22c55e&label=PROFILE%20VIEWS" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/abdullah-alsaba?style=for-the-badge&color=22c55e&labelColor=0d1117&label=FOLLOWERS" />
   &nbsp;
   <img src="https://img.shields.io/badge/Focus-MERN%20Stack-22c55e?style=for-the-badge&labelColor=0d1117" />
@@ -81,14 +80,6 @@ const abdullah = {
   width="280"
   alt="Total Coding Time"
 />
-
-<br/>
-
-<strong>⌨️ TOTAL CODING TIME</strong>
-
-<br/>
-
-<sub>WakaTime • Updated Daily</sub>
 
 </td>
 
