@@ -97,40 +97,59 @@ Hey, I'm **Abdullah Al Saba** — a self-driven frontend developer from Banglade
 </p>
 
 ---
+<div align="left">
 
-<!-- PROJECTS -->
 ## 🚀 &nbsp;Projects
 
-<table align="center" width="100%">
+</div>
+
+<table width="100%">
   <tr>
-    <td align="center" width="50%">
-      <h3>🏦 Payoo Banking App</h3>
-      <p>A modern banking UI concept built with React & Tailwind CSS. Clean dashboard, transaction flows, and fully responsive design.</p>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Tailwind-0f172a?style=flat-square&logo=tailwindcss&logoColor=38bdf8" />
-    </td>
-    <td align="center" width="50%">
-      <h3>🤖 AI Tools Platform</h3>
-      <p>A platform UI for AI-powered tools — clean layout, card-based tool explorer, and a sleek dark interface.</p>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/DaisyUI-1d4ed8?style=flat-square&logo=daisyui&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <h3>🎨 Choose Your Color</h3>
-      <p>An interactive color picker/explorer app. Users can browse, generate, and save color palettes with live previews.</p>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-    </td>
     <td align="center" width="50%">
       <h3>🌐 Portfolio Website</h3>
-      <p>My personal portfolio — showcasing projects, skills, and contact info with smooth animations and fully responsive layout.</p>
+      <p>
+        A personal portfolio website built with HTML, CSS, and JavaScript.
+        It showcases my projects, skills, and information through a clean,
+        responsive, and user-friendly interface.
+      </p>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+    </td>
+    <td align="center" width="50%">
+      <h3>🎓 SkillSphere</h3>
+      <p>
+        An online learning platform built with Next.js, providing a clean
+        and responsive interface for exploring courses and educational content.
+      </p>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Tailwind-0f172a?style=flat-square&logo=tailwindcss&logoColor=38bdf8" />
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="50%">
+      <h3>⚽ SportNest</h3>
+      <p>
+        A full-stack sports facility booking platform where users can browse,
+        book, and manage sports facilities through a modern and responsive interface.
+      </p>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+    </td>
+    <td align="center" width="50%">
+      <h3>⚡ NexaFlow</h3>
+      <p>
+        A modern web application built with Next.js, focused on delivering
+        a clean, responsive, and well-structured user experience.
+      </p>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
     </td>
   </tr>
 </table>
+
 
 ---
 
