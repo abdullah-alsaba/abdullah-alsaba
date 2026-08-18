@@ -1,1 +1,38 @@
+<svg width="560" height="180" viewBox="0 0 560 180" xmlns="http://www.w3.org/2000/svg">
+  <rect width="560" height="180" rx="20" fill="#050a07"/>
+  <rect x="2" y="2" width="556" height="176" rx="18" fill="none" stroke="#22c55e" stroke-width="2"/>
 
+  <text
+    x="280"
+    y="55"
+    text-anchor="middle"
+    fill="#4ade80"
+    font-family="Arial, sans-serif"
+    font-size="16"
+    font-weight="bold"
+    letter-spacing="4">
+    TOTAL CODING TIME
+  </text>
+
+  <text
+    x="280"
+    y="125"
+    text-anchor="middle"
+    fill="#22c55e"
+    font-family="Courier New, monospace"
+    font-size="58"
+    font-weight="bold">
+    00:00:00
+  </text>
+
+  <text
+    x="280"
+    y="155"
+    text-anchor="middle"
+    fill="#166534"
+    font-family="Arial, sans-serif"
+    font-size="11"
+    letter-spacing="2">
+    WAKATIME • UPDATED DAILY
+  </text>
+</svg>
