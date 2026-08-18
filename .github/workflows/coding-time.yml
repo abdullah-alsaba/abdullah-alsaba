@@ -1,0 +1,178 @@
+name: Update Coding Time
+
+on:
+  schedule:
+    - cron: "0 18 * * *"
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-coding-time:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Get WakaTime coding time
+        env:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+        run: |
+          python3 <<'PY'
+          import os
+          import json
+          import base64
+          import time
+          import urllib.request
+          import urllib.error
+
+          api_key = os.environ["WAKATIME_API_KEY"]
+
+          url = "https://api.wakatime.com/api/v1/users/current/all_time_since_today"
+
+          encoded_key = base64.b64encode(
+              f"{api_key}:".encode()
+          ).decode()
+
+          request = urllib.request.Request(
+              url,
+              headers={
+                  "Authorization": f"Basic {encoded_key}",
+                  "Accept": "application/json"
+              }
+          )
+
+          data = None
+
+          for attempt in range(5):
+              try:
+                  with urllib.request.urlopen(request, timeout=30) as response:
+                      data = json.loads(response.read().decode())
+                      break
+
+              except urllib.error.HTTPError as error:
+                  if error.code == 202 and attempt < 4:
+                      print("WakaTime is calculating your stats...")
+                      time.sleep(30)
+                  else:
+                      raise
+
+          if data is None:
+              raise RuntimeError("Could not get data from WakaTime.")
+
+          total_seconds = int(
+              data["data"].get("total_seconds", 0)
+          )
+
+          hours = total_seconds // 3600
+          minutes = (total_seconds % 3600) // 60
+          seconds = total_seconds % 60
+
+          coding_time = f"{hours:02d}:{minutes:02d}:{seconds:02d}"
+
+          print(f"Total Coding Time: {coding_time}")
+
+          svg = f'''<svg
+          width="560"
+          height="180"
+          viewBox="0 0 560 180"
+          xmlns="http://www.w3.org/2000/svg">
+
+            <defs>
+              <filter id="glow">
+                <feGaussianBlur
+                  stdDeviation="4"
+                  result="blur"
+                />
+
+                <feMerge>
+                  <feMergeNode in="blur"/>
+                  <feMergeNode in="SourceGraphic"/>
+                </feMerge>
+              </filter>
+            </defs>
+
+            <rect
+              width="560"
+              height="180"
+              rx="20"
+              fill="#050a07"
+            />
+
+            <rect
+              x="2"
+              y="2"
+              width="556"
+              height="176"
+              rx="18"
+              fill="none"
+              stroke="#22c55e"
+              stroke-width="2"
+            />
+
+            <text
+              x="280"
+              y="55"
+              text-anchor="middle"
+              fill="#4ade80"
+              font-family="Arial, sans-serif"
+              font-size="16"
+              font-weight="bold"
+              letter-spacing="4">
+              TOTAL CODING TIME
+            </text>
+
+            <text
+              x="280"
+              y="125"
+              text-anchor="middle"
+              fill="#22c55e"
+              filter="url(#glow)"
+              font-family="Courier New, monospace"
+              font-size="58"
+              font-weight="bold"
+              letter-spacing="3">
+              {coding_time}
+            </text>
+
+            <text
+              x="280"
+              y="155"
+              text-anchor="middle"
+              fill="#166534"
+              font-family="Arial, sans-serif"
+              font-size="11"
+              letter-spacing="2">
+              WAKATIME • UPDATED DAILY
+            </text>
+
+          </svg>'''
+
+          os.makedirs("assets", exist_ok=True)
+
+          with open(
+              "assets/coding-time.svg",
+              "w",
+              encoding="utf-8"
+          ) as file:
+              file.write(svg)
+
+          print("coding-time.svg updated successfully.")
+          PY
+
+      - name: Commit and push updated timer
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add assets/coding-time.svg
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore: update coding time"
+            git push
+          fi
