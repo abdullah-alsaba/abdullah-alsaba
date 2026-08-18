@@ -24,39 +24,92 @@
 <!-- ABOUT ME -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26"/> &nbsp;About Me
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
+<table width="100%">
+<tr>
 
-```JavaScript
+<!-- LEFT COLUMN -->
+<td width="65%" valign="top">
+
+<pre>
+<code>
 const abdullah = {
     name: "Abdullah Al Saba",
     role: "MERN Stack Developer",
-    education: "B.Sc. in chemistry — Dhaka Central University ",
+    education: "B.Sc. in chemistry — Dhaka Central University",
     location: "Bangladesh 🇧🇩",
-  
+
     stack: {
-      frontend: ["React", "Next.js", "Tailwind"],
-      backend: ["Node.js", "Express.js", "REST API"],
-      database: ["MongoDB"],
-      auth:["BetterAuth", "JWT"]
+        frontend: ["React", "Next.js", "Tailwind"],
+        backend: ["Node.js", "Express.js", "REST API"],
+        database: ["MongoDB"],
+        auth: ["BetterAuth", "JWT"]
     },
 
     currentFocus: ["TypeScript"],
     tools: ["Git", "GitHub", "VS Code"],
-    openTo: ["Remote Work", "Contract", "Open Source", "Freelance Projects"],
-    motto: "Build with purpose. Learn without limits. Ship with confidence",
- 
+
+    openTo: [
+        "Remote Work",
+        "Contract",
+        "Open Source",
+        "Freelance Projects"
+    ],
+
+    motto:
+        "Build with purpose. Learn without limits. Ship with confidence"
 };
-```
+</code>
+</pre>
+
+</td>
+
+<!-- RIGHT COLUMN -->
+<td width="35%" align="center" valign="top">
+
+<!-- DEVELOPER GIF -->
+<img
+  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+  width="280"
+  alt="Developer Coding"
+/>
+
+<br/><br/>
+
+<!-- CODING TIMER -->
+<img
+  src="./assets/coding-time.svg"
+  width="280"
+  alt="Total Coding Time"
+/>
 
 <br/>
 
-Hey, I'm **Abdullah Al Saba** — a self-driven frontend developer from Bangladesh who genuinely loves building things for the web. I started with HTML & CSS, fell in love with the craft, and haven't stopped since. I've gone deep into **React** and **Next.js**, and now I'm leveling up into the backend with **MongoDB**. I believe in learning by doing, so you'll find me turning ideas into actual projects rather than just watching tutorials. My goal: grow consistently, build things that matter, and eventually ship full-stack products end to end.
+<strong>⌨️ TOTAL CODING TIME</strong>
 
-<br clear="right"/>
+<br/>
 
+<sub>WakaTime • Updated Daily</sub>
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+Hey, I'm **Abdullah Al Saba** — a self-driven frontend developer from Bangladesh who genuinely loves building things for the web.
+
+I started with HTML & CSS, fell in love with the craft, and haven't stopped since. I've gone deep into **React** and **Next.js**, and now I'm leveling up into the backend with **MongoDB**.
+
+I believe in learning by doing, so you'll find me turning ideas into actual projects rather than just watching tutorials.
+
+My goal: **grow consistently, build things that matter, and eventually ship full-stack products end to end.**
+
+<br clear="both"/>
+
+---
 
 <!-- TECH STACK -->
----
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="26"/> &nbsp;Tech Stack
 
