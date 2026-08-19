@@ -1,87 +1,75 @@
-<svg width="520" height="180" viewBox="0 0 520 180"
+<svg
+width="560"
+height="180"
+viewBox="0 0 560 180"
 xmlns="http://www.w3.org/2000/svg">
 
   <defs>
     <filter id="glow">
-      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feGaussianBlur
+        stdDeviation="4"
+        result="blur"
+      />
+
       <feMerge>
         <feMergeNode in="blur"/>
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
-
-    <linearGradient id="green" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#00ff41"/>
-      <stop offset="50%" stop-color="#39ff14"/>
-      <stop offset="100%" stop-color="#00ff41"/>
-    </linearGradient>
   </defs>
+
+  <rect
+    width="560"
+    height="180"
+    rx="20"
+    fill="#050a07"
+  />
 
   <rect
     x="2"
     y="2"
-    width="516"
+    width="556"
     height="176"
     rx="18"
-    fill="#050805"
-    stroke="#14532d"
+    fill="none"
+    stroke="#22c55e"
     stroke-width="2"
   />
 
-  <rect
-    x="12"
-    y="12"
-    width="496"
-    height="156"
-    rx="12"
-    fill="#020402"
-    stroke="#052e16"
-    stroke-width="1"
-  />
-
   <text
-    x="260"
-    y="52"
+    x="280"
+    y="55"
     text-anchor="middle"
     fill="#4ade80"
     font-family="Arial, sans-serif"
-    font-size="15"
-    font-weight="600"
+    font-size="16"
+    font-weight="bold"
     letter-spacing="4">
     TOTAL CODING TIME
   </text>
 
   <text
-    x="260"
-    y="120"
+    x="280"
+    y="125"
     text-anchor="middle"
-    fill="url(#green)"
+    fill="#22c55e"
     filter="url(#glow)"
     font-family="Courier New, monospace"
-    font-size="57"
+    font-size="58"
     font-weight="bold"
-    letter-spacing="5">
-    00:00:00
-  </text>
-
-  <circle cx="50" cy="145" r="4" fill="#22c55e"/>
-  <text
-    x="65"
-    y="151"
-    fill="#166534"
-    font-family="Arial, sans-serif"
-    font-size="11">
-    WAKATIME
+    letter-spacing="3">
+    04:49:13
   </text>
 
   <text
-    x="470"
-    y="151"
-    text-anchor="end"
+    x="280"
+    y="155"
+    text-anchor="middle"
     fill="#166534"
     font-family="Arial, sans-serif"
-    font-size="11">
-    UPDATED DAILY
+    font-size="11"
+    letter-spacing="2">
+    WAKATIME • UPDATED DAILY
   </text>
 
 </svg>
