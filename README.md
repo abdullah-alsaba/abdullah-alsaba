@@ -207,7 +207,7 @@ My goal: **grow consistently, build things that matter, and eventually ship full
 
 <!-- ACTIVITY GRAPH -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullah-alsaba&bg_color=0d1117&color=22c55e&line=22c55e&point=86efac&area=true&hide_border=true" width="95%" />
+  <img src="https://github-readme-activity-graph-kappa-rouge.vercel.app/graph?username=abdullah-alsaba&bg_color=0d1117&color=22c55e&line=22c55e&point=86efac&area=true&hide_border=true" width="95%" />
 </p>
 
 ---
