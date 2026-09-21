@@ -89,13 +89,17 @@ const abdullah = {
 
 <br/>
 
-Hey, I'm **Abdullah Al Saba** — a self-driven frontend developer from Bangladesh who genuinely loves building things for the web.
+<p>
+  Hey, I'm <strong>Abdullah Al Saba</strong> — a self-driven <strong>MERN Stack Developer from Bangladesh</strong> who enjoys building modern, responsive, and user-focused web applications.
+</p>
 
-I started with HTML & CSS, fell in love with the craft, and haven't stopped since. I've gone deep into **React** and **Next.js**, and now I'm leveling up into the backend with **MongoDB**.
+<p>
+  I started with <strong>HTML & CSS</strong>, progressed through <strong>JavaScript, React, and Next.js</strong>, and expanded into full-stack development with <strong>Node.js, Express.js, and MongoDB</strong>. I believe in <strong>learning by building</strong>, so I focus on creating real-world projects, solving practical problems, and continuously improving my development skills.
+</p>
 
-I believe in learning by doing, so you'll find me turning ideas into actual projects rather than just watching tutorials.
-
-My goal: **grow consistently, build things that matter, and eventually ship full-stack products end to end.**
+<p>
+  My goal: <strong>keep learning, build meaningful products, and grow into a strong full-stack developer who can take ideas from concept to production.</strong>
+</p>
 
 <br clear="both"/>
 
