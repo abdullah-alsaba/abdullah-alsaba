@@ -184,14 +184,16 @@ My goal: **grow consistently, build things that matter, and eventually ship full
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
     </td>
     <td align="center" width="50%">
-      <h3>⚡ NexaFlow</h3>
-      <p>
-        A modern web application built with Next.js, focused on delivering
-        a clean, responsive, and well-structured user experience.
-      </p>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-    </td>
+     <h3>📚 Fable</h3>
+<p>
+  A full-stack ebook platform built with Next.js, Node.js, Express.js,
+  and MongoDB, featuring secure authentication, ebook sharing,
+  purchasing, reading, and role-based dashboards.
+</p>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
   </tr>
 </table>
 
