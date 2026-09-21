@@ -32,31 +32,31 @@
 
 <pre>
 <code>
-const abdullah = {
-    name: "Abdullah Al Saba",
-    role: "MERN Stack Developer",
-    education: "B.Sc. in chemistry — Dhaka Central University",
-    location: "Bangladesh 🇧🇩",
-
-    stack: {
-        frontend: ["React", "Next.js", "Tailwind"],
-        backend: ["Node.js", "Express.js", "REST API"],
-        database: ["MongoDB"],
-        auth: ["BetterAuth", "JWT"]
-    },
-
-    currentFocus: ["TypeScript"],
-    tools: ["Git", "GitHub", "VS Code"],
-
-    openTo: [
-        "Remote Work",
-        "Contract",
-        "Open Source",
-        "Freelance Projects"
-    ],
-
-    motto:
-        "Build with purpose. Learn without limits. Ship with confidence"
+const abdullah = { 
+    name: "Abdullah Al Saba", 
+    role: "MERN Stack Developer", 
+    education: "B.Sc. in Chemistry — Dhaka Central University", 
+    location: "Bangladesh 🇧🇩", 
+ 
+    stack: { 
+        frontend: ["React", "Next.js", "Tailwind"], 
+        backend: ["Node.js", "Express.js", "REST API"], 
+        database: ["MongoDB"], 
+        auth: ["BetterAuth", "JWT"], 
+        language: ["JavaScript", "TypeScript"]
+    }, 
+ 
+    tools: ["Git", "GitHub", "VS Code"], 
+ 
+    openTo: [ 
+        "Remote Work", 
+        "Contract", 
+        "Open Source", 
+        "Freelance Projects" 
+    ], 
+ 
+    motto: 
+        "Build with purpose. Learn without limits. Ship with confidence" 
 };
 </code>
 </pre>
