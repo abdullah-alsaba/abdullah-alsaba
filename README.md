@@ -13,7 +13,7 @@
   <img src="https://komarev.com/ghpvc/?username=abdullah-alsaba&style=for-the-badge&color=22c55e&label=PROFILE%20VIEWS" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/abdullah-alsaba?style=for-the-badge&color=22c55e&labelColor=0d1117&label=FOLLOWERS" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Focus-MERN%20Stack-22c55e?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Building-Full--Stack%20Web%20Apps-22c55e?style=for-the-badge&labelColor=0d1117" />
 </p>
 
 
