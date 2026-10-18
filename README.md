@@ -63,7 +63,7 @@ const abdullah = {
 </td>
 
 <!-- RIGHT COLUMN -->
-<td width="35%" align="center" valign="top">
+<td width="35%" align="center" valign="middle">
 
 <!-- DEVELOPER GIF -->
 <img
@@ -72,7 +72,7 @@ const abdullah = {
   alt="Developer Coding"
 />
 
-<br/><br/>
+<br/>
 
 <!-- CODING TIMER -->
 <img
@@ -81,7 +81,7 @@ const abdullah = {
   alt="Total Coding Time"
 />
 
-<br/><br/>
+<br/>
 
 <!-- TOP LANGUAGES -->
 <img
@@ -91,7 +91,6 @@ const abdullah = {
 />
 
 </td>
-
 </tr>
 </table>
 
