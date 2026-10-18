@@ -135,6 +135,7 @@ const abdullah = {
 <p>
   <img src="https://img.shields.io/badge/Better_Auth-111827?style=for-the-badge" />
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
 ### 🛠️ Tools
