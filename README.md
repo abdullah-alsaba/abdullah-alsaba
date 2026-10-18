@@ -42,7 +42,7 @@ const abdullah = {
         frontend: ["React", "Next.js", "Tailwind"], 
         backend: ["Node.js", "Express.js", "REST API"], 
         database: ["MongoDB"], 
-        auth: ["BetterAuth", "JWT"], 
+        auth: ["BetterAuth", "JWT", "Firebase"], 
         language: ["JavaScript", "TypeScript"]
     }, 
  
