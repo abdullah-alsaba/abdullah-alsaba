@@ -67,7 +67,7 @@ const abdullah = {
 
 <!-- DEVELOPER GIF -->
 <img
-  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+  src="./assets/dev.gif"
   width="280"
   alt="Developer Coding"
 />
@@ -79,6 +79,15 @@ const abdullah = {
   src="./assets/coding-time.svg"
   width="280"
   alt="Total Coding Time"
+/>
+
+<br/><br/>
+
+<!-- TOP LANGUAGES -->
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-alsaba&layout=compact&hide_border=true&bg_color=0d1117&title_color=22c55e&text_color=c9d1d9&card_width=280"
+  width="280"
+  alt="Top Languages"
 />
 
 </td>
@@ -99,6 +108,12 @@ const abdullah = {
 <p>
   My goal: <strong>keep learning, build meaningful products, and grow into a strong full-stack developer who can take ideas from concept to production.</strong>
 </p>
+<h3>🔭 What I'm up to</h3>
+<ul>
+  <li>🔨 Improving my full-stack projects <b>Fable</b> and <b>SportNest</b> with Next.js, Express.js, and MongoDB</li>
+  <li>🧩 Practicing data structures & algorithms on LeetCode</li>
+  <li>💼 Looking for a junior full-stack developer role</li>
+</ul>
 
 <br clear="both"/>
 
