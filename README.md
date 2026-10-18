@@ -10,8 +10,7 @@
 
 <!-- BADGES ROW -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdullah-alsaba&style=for-the-badge&color=22c55e&label=PROFILE%20VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/abdullah-alsaba?style=for-the-badge&color=22c55e&labelColor=0d1117&label=FOLLOWERS" />
+<img src="https://api.visitorbadge.io/api/visitors?path=abdullah-alsaba&label=PROFILE%20VIEWS&countColor=%2322c55e&labelColor=%230d1117&style=for-the-badge" alt="Profile Views" />  <img src="https://img.shields.io/github/followers/abdullah-alsaba?style=for-the-badge&color=22c55e&labelColor=0d1117&label=FOLLOWERS" />
   &nbsp;
   <img src="https://img.shields.io/badge/Building-Full--Stack%20Web%20Apps-22c55e?style=for-the-badge&labelColor=0d1117" />
 </p>
